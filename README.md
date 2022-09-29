@@ -3,13 +3,13 @@ A Bakeneko style oring mount 60% keyboard with AEK-inspired side profile curve. 
 
 [Resin Prototype Gallery](https://imgur.com/a/Q3PnS54)
 > The Unikorn weight design on the prototype unit has been removed
+> The Unikorn mounting points have been replaced with Bakeneko v3 Mounting points
 
 ![20220927_233052](https://user-images.githubusercontent.com/55266028/192907995-9cd331c5-f6c7-4920-b4c2-ba855a6618a6.jpg)
 
 ## What the KRKII has
 - Curved side profile similar to the Apple Extended Keyboard series
-- Unikorn/ Bakeneko V1/ Cannonkeys Bakeneko mounting points for more PCB compatibility
-- Added 2mm space under the PCB for improved Alps acoustic
+- ~~Unikorn/ Bakeneko V1/ Cannonkeys Bakeneko mounting points for more PCB compatibility~~
 - Symmetrical HHKB blockers compatible with Tsangan 7u bottom row and AEK bottom row
 
 ## How to order
@@ -20,7 +20,7 @@ A Bakeneko style oring mount 60% keyboard with AEK-inspired side profile curve. 
 Use the provided ``KRKII_Production`` STEP or STL file to get CNC machining quotes or 3d printing quotes.
 
 ### PCB
-I have personally tested the **Waffling60 Alps** version with USB port desolder, but technically all Unikorn compatible PCBs should work.
+The **Waffling60 Alps** version with USB port desolder and JST connector will work, but technically all Bakeneko V3 compatible PCBs should work.
 
 ### Plate
 Depending on your layout needs and if you're running MX or Alps build
