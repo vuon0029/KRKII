@@ -2,6 +2,7 @@
 A Bakeneko style oring mount 60% keyboard with AEK-inspired side profile curve. Can be used for Alps or MX build
 
 [Resin Prototype Gallery](https://imgur.com/a/Q3PnS54)
+> The Unikorn weight design on the prototype unit has been removed
 
 ![20220927_233052](https://user-images.githubusercontent.com/55266028/192907995-9cd331c5-f6c7-4920-b4c2-ba855a6618a6.jpg)
 
